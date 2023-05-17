@@ -1,0 +1,7 @@
+0: không có gì cả          - NONE
+1: tường                        -WALL
+2:vị trí đúng của hộp     -LOCATION_CORRECT
+3: cây ngoài                  - TREE
+4: nhân vật                    - CHARACTER
+5: hộp thường	        - BOX
+6: hộp khi ở vị trí đúng - BOX_CORRECT
