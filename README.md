@@ -11,7 +11,7 @@ Sao chép kho lưu trữ:
 
 bash
 Copy code
-git clone https://github.com/your-username/sokoban.git
+git clone https://github.com/22021202-VU-VAN-HUY/Sokoban.git
 Ngoài ra, bạn có thể tải xuống kho lưu trữ dưới dạng tệp ZIP và giải nén vào vị trí mong muốn.
 
 Mở thư mục Sokoban:
