@@ -1,32 +1,19 @@
-**Sokoban Game (C++ với SDL)**
-Giới thiệu
+# Sokoban Game
+## Giới thiệu
 Chào mừng đến với Sokoban! Đây là một trò chơi puzzle kinh điển, nơi mục tiêu của người chơi là đẩy các hộp vào vị trí được chỉ định. Nhiệm vụ của bạn là giải quyết các cấp độ khác nhau bằng cách di chuyển nhân vật và các hộp một cách chiến lược.
+## Cài đặt
+Để chơi Sokoban, làm theo các bước sau: <br>
 
-Sokoban
+1.Sao chép kho lưu trữ: <br>
 
-Cài đặt
-Để chơi Sokoban, làm theo các bước sau:
+Copy code  ``` git clone https://github.com/22021202-VU-VAN-HUY/Sokoban.git ``` <br>
 
-Sao chép kho lưu trữ:
+Ngoài ra, bạn có thể tải xuống kho lưu trữ dưới dạng tệp ZIP và giải nén vào vị trí mong muốn. <br>
 
-bash
-Copy code
-git clone https://github.com/22021202-VU-VAN-HUY/Sokoban.git
-Ngoài ra, bạn có thể tải xuống kho lưu trữ dưới dạng tệp ZIP và giải nén vào vị trí mong muốn.
+2. Mở thư mục **Sokoban**. <br>
+3. Mở file **sokoban.cbp** <br>
+4. Nếu bạn dùng **codeblock** nhấn **F9** để biên dịch và chạy trò chơi.
 
-Mở thư mục Sokoban:
-
-bash
-Copy code
-cd sokoban
-Cài đặt các phụ thuộc cần thiết. Nếu bạn đã cài đặt C++, bạn có thể sử dụng trình quản lý gói của hệ thống (ví dụ: apt, yum, brew) để cài đặt các thư viện SDL và SDL_image.
-
-Biên dịch và chạy trò chơi:
-
-bash
-Copy code
-g++ sokoban.cpp -o sokoban -lSDL2 -lSDL2_image
-./sokoban
 Bây giờ bạn đã sẵn sàng chơi Sokoban!
 
 Hình ảnh trong game
