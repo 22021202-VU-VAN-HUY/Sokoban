@@ -51,5 +51,5 @@ Dưới đây là các tổ hợp phím để điều khiển nhân vật trong 
 
 
 
-Chúc may mắn và hãy thưởng thức trò chơi Sokoban!
+**Chúc may mắn và hãy thưởng thức trò chơi Sokoban!**
 
