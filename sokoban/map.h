@@ -132,7 +132,7 @@ void draw_restart()
         cellRect.w = width_block;
         cellRect.h = hight_block;
     SDL_RenderCopy(gRenderer, Image_Restart, NULL, &cellRect);
-    SDL_RenderPresent(gRenderer);
+    //SDL_RenderPresent(gRenderer);
 }
 
 void draw_map()
@@ -150,7 +150,7 @@ void draw_map()
         cellRect.h = hight_block*block;
         SDL_RenderCopy(gRenderer, Image_Map_background, NULL, &cellRect);
 
-    SDL_RenderPresent(gRenderer);
+    //SDL_RenderPresent(gRenderer);
     for (int row = 0; row < block; row++)
     {
         for (int col = 0; col < block; col++)
