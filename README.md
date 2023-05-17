@@ -28,15 +28,15 @@ Người chơi cần lên kế hoạch di chuyển một cách chiến lược �
 Hãy sắp xếp nước đi của bạn một cách thông minh và tận dụng sự suy nghĩ chiến lược để giải quyết các câu đố trong Sokoban.
 
 ## Hình ảnh trong game
-Đây là một số hình ảnh trong trò chơi Sokoban:
 
-Nhân vật và hộp
+| Các đối tượng trong game |  hình ảnh | 
+| :----------------------- | :-------- | 
+| Nhân vật trong trò chơi  |   <img src="sokoban/image/character1.png" alt="example" style="width:64px; height:64px;">     | 
+| Bức tường                |     <img src="sokoban/image/wall.png" alt="example" style="width:64px; height:64px;">         |
+| Vị trí đích              | <img src="sokoban/image/location_correct.png" alt="example" style="width:64px; height:64px;"> | 
+| Hộp thường               | <img src="sokoban/image/box.png" alt="example" style="width:64px; height:64px;">              | 
+| Hộp ở vị trí đích        | <img src="sokoban/image/box_correct.png" alt="example" style="width:64px; height:64px;">      | 
 
-Đẩy hộp vào vị trí chỉ định.
-
-Vị trí đích
-
-Các vị trí đích để đặt hộp.
 
 ## Tổ hợp phím
 Dưới đây là các tổ hợp phím để điều khiển nhân vật trong trò chơi:
