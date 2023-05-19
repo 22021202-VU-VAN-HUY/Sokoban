@@ -18,6 +18,19 @@ Ngoài ra, bạn có thể tải xuống kho lưu trữ dưới dạng tệp ZIP
 
 Bây giờ bạn đã sẵn sàng chơi Sokoban!
 
+
+## Tổ hợp phím chơi
+Dưới đây là các tổ hợp phím để điều khiển nhân vật trong trò chơi:
+
+- Phím mũi tên lên &uarr; : Di chuyển lên
+
+- Phím mũi tên xuống &darr; : Di chuyển xuống
+
+- Phím mũi tên trái &larr; : Di chuyển sang trái
+
+- Phím mũi tên phải &rarr; : Di chuyển sang phải
+
+
 ## Cách chơi
 - Mục tiêu của trò chơi là đẩy tất cả các hộp vào vị trí đích. 
 
@@ -37,17 +50,6 @@ Bây giờ bạn đã sẵn sàng chơi Sokoban!
 | Hộp thường               | <img src="sokoban/image/box.png" alt="example" style="width:64px; height:64px;">              | 
 | Hộp ở vị trí đích        | <img src="sokoban/image/box_correct.png" alt="example" style="width:64px; height:64px;">      | 
 
-
-## Tổ hợp phím
-Dưới đây là các tổ hợp phím để điều khiển nhân vật trong trò chơi:
-
-- Phím mũi tên lên &uarr; : Di chuyển lên
-
-- Phím mũi tên xuống &darr; : Di chuyển xuống
-
-- Phím mũi tên trái &larr; : Di chuyển sang trái
-
-- Phím mũi tên phải &rarr; : Di chuyển sang phải
 
 
 
