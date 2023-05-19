@@ -12,7 +12,7 @@ Ngoài ra, bạn có thể tải xuống kho lưu trữ dưới dạng tệp ZIP
 
 2. Mở thư mục **Sokoban**.
 
-4. Mở file **sokoban.cbp**
+4. Mở file project **sokoban.cbp**
 
 6. Nếu bạn dùng **codeblock** nhấn **F9** để biên dịch và chạy trò chơi.
 
